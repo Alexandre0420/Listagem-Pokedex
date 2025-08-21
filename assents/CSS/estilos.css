@@ -2,8 +2,7 @@ body {
     font-family: "Poppins", sans-serif;
     max-width: 1280px;
     margin: 0 auto;
-    background-color: #5e5b5bad;
-    color: #333333;
+    background-image: url("./assents/img/background.jpg")
   }
   
   body.modo-escuro {
